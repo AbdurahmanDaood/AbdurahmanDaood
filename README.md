@@ -28,11 +28,9 @@ I'm a software engineer developer and CS student from Syria.
 
 
 ## Where you can find me 👀
-- [LinkedIn](https://www.linkedin.com/in/maamoun-hajnajeeb/)
-- [YouTube - The magic of computer science](https://www.youtube.com/@themagicofcomputerscience3270/)
-- [Blog](https://maamounhajnajeeb.blogspot.com/search/label/Technical)
+- [LinkedIn](https://www.linkedin.com/in/abdurahman-daood)
 
-[E-mail me](mailto:maamoun.haj.najeeb@gmail.com "Maamoun's email")
+[E-mail me](abd.daood.2002@gmail.com "Abdurahman's email")
 
 
 <img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
